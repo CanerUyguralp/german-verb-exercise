@@ -23,7 +23,7 @@ Steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ViolentApple/german-verb-exercise.git
+   git clone https://github.com/CanerUyguralp/german-verb-exercise.git
 2. Open the project in your IDE.
 3. Build the project to download and configure dependencies.
 4. Run the main application file: 'MainMenuUI.java'.
